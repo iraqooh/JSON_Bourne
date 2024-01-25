@@ -19,7 +19,7 @@ Welcome to the JSON-Bourne repository! This space is designed to house JSON data
 
 2. Navigate to the specific category directory you are interested in.
 
-3. Integrate the JSON data into your project by utilizing AJAX requests or any method suitable for your development environment.
+3. Integrate the JSON data into your project by utilizing AJAX requests or any method suitable for your development environment. Alternatively, make a GET request to one of the files. Just open the file in, click on the Raw button and paste the URL into your HTTP request method.
 
 4. Feel free to explore and contribute to this repository to enhance the variety and richness of available JSON data. Your feedback and contributions are highly appreciated!
 
